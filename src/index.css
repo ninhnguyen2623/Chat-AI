@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --color-default: #131314;
+  --color-sidebar: #1e1f20;
+  --color-bermuda: #78dcca;
+}
+
+* {
+  box-sizing: border-box;
+}
